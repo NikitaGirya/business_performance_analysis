@@ -1,6 +1,7 @@
 ---
 
-Отображение графиков библиотеки `Plotly` не поддерживается GitHub </br> [Просмотр через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/business_performance_analysis/blob/main/Girya_business_performance_analysis.ipynb)
+:white_check_mark::ok_hand:Для корректного отображения разметки `Markdown`, `LaTeX` и интерактивности графиков `Plotly` </br>
+**[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/business_performance_analysis/blob/main/Girya_business_performance_analysis.ipynb)**
 
 ---
 
@@ -63,6 +64,7 @@
 
 ---
 
-Отображение графиков библиотеки `Plotly` не поддерживается GitHub </br> [Просмотр через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/business_performance_analysis/blob/main/Girya_business_performance_analysis.ipynb)
+:white_check_mark::ok_hand:Для корректного отображения разметки `Markdown`, `LaTeX` и интерактивности графиков `Plotly` </br>
+**[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/business_performance_analysis/blob/main/Girya_business_performance_analysis.ipynb)**
 
 ---
