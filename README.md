@@ -7,6 +7,8 @@
 
 # Анализ бизнес-показателей
 
+`pandas`  `numpy`  `matplotlib`  `seaborn`  `plotly`
+
 ---
 
 <p align="center">
